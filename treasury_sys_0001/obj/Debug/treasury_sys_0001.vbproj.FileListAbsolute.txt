@@ -1,0 +1,17 @@
+c:\users\dell\documents\visual studio 2015\Projects\treasury_sys_0001\treasury_sys_0001\bin\Debug\treasury_sys_0001.exe.config
+c:\users\dell\documents\visual studio 2015\Projects\treasury_sys_0001\treasury_sys_0001\bin\Debug\treasury_sys_0001.exe
+c:\users\dell\documents\visual studio 2015\Projects\treasury_sys_0001\treasury_sys_0001\bin\Debug\treasury_sys_0001.pdb
+c:\users\dell\documents\visual studio 2015\Projects\treasury_sys_0001\treasury_sys_0001\bin\Debug\treasury_sys_0001.xml
+c:\users\dell\documents\visual studio 2015\Projects\treasury_sys_0001\treasury_sys_0001\obj\Debug\treasury_sys_0001.vbprojResolveAssemblyReference.cache
+c:\users\dell\documents\visual studio 2015\Projects\treasury_sys_0001\treasury_sys_0001\obj\Debug\treasury_sys_0001.Form1.resources
+c:\users\dell\documents\visual studio 2015\Projects\treasury_sys_0001\treasury_sys_0001\obj\Debug\treasury_sys_0001.Resources.resources
+c:\users\dell\documents\visual studio 2015\Projects\treasury_sys_0001\treasury_sys_0001\obj\Debug\treasury_sys_0001.vbproj.GenerateResource.Cache
+c:\users\dell\documents\visual studio 2015\Projects\treasury_sys_0001\treasury_sys_0001\obj\Debug\treasury_sys_0001.exe
+c:\users\dell\documents\visual studio 2015\Projects\treasury_sys_0001\treasury_sys_0001\obj\Debug\treasury_sys_0001.xml
+c:\users\dell\documents\visual studio 2015\Projects\treasury_sys_0001\treasury_sys_0001\obj\Debug\treasury_sys_0001.pdb
+C:\Users\DELL\documents\visual studio 2015\Projects\treasury_sys_0001\treasury_sys_0001\obj\Debug\treasury_sys_0001.Form2.resources
+C:\Users\DELL\documents\visual studio 2015\Projects\treasury_sys_0001\treasury_sys_0001\bin\Debug\MySql.Data.dll
+C:\Users\DELL\documents\visual studio 2015\Projects\treasury_sys_0001\treasury_sys_0001\obj\Debug\treasury_sys_0001.Form3.resources
+C:\Users\DELL\documents\visual studio 2015\Projects\treasury_sys_0001\treasury_sys_0001\obj\Debug\treasury_sys_0001.UserControl1.resources
+C:\Users\DELL\documents\visual studio 2015\Projects\treasury_sys_0001\treasury_sys_0001\obj\Debug\treasury_sys_0001.Form4.resources
+C:\Users\DELL\documents\visual studio 2015\Projects\treasury_sys_0001\treasury_sys_0001\obj\Debug\treasury_sys_0001.Form5.resources
